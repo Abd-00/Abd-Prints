@@ -1,0 +1,45 @@
+.btn{
+    margin-top: 1em;
+}
+
+.p-2{
+    word-spacing: 10px;
+}
+
+
+.w{
+    text-align: justify;
+    text-align: center;
+}
+
+.s{
+    box-shadow: 3px 3px 2px grey !important;
+}
+.s:hover{
+    cursor: pointer;
+}
+
+.t{
+    background-color: #202020;
+}
+.r{
+    word-spacing: 25px !important;
+}
+
+.j:hover{
+    text-decoration: none;
+}
+
+
+.q{
+    max-width: 500px !important;
+    min-width: 300px !important;
+}
+
+.kxl{
+    margin: 10px;
+}
+.e:hover{
+    cursor: pointer !important;
+
+}
